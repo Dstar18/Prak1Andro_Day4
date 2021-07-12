@@ -16,7 +16,5 @@ Open Location yang sudah ada di android Kita.
 dapat untuk menybar luaskan text yang kita buat dengan memanggil fungsi
 yang sudah ada di android Kita.<br>
 
-Demo Aplikasi<br>
-<body>
-<iframe width="560" height="315" src="https://youtu.be/dztjIR612fE"></iframe>
-</body>
+Demo Aplikasi on YouTube<br>
+https://youtu.be/dztjIR612fE
