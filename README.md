@@ -17,7 +17,6 @@ dapat untuk menybar luaskan text yang kita buat dengan memanggil fungsi
 yang sudah ada di android Kita.<br>
 
 Demo Aplikasi<br>
-<video controls>
-    <source src="docs/DemoAPK.mp4" type="video/webm" />
-    Browsermu tidak mendukung tag ini, upgrade donk!
-  </video>
+<body>
+<iframe width="560" height="315" src="https://youtu.be/dztjIR612fE"></iframe>
+</body>
